@@ -1,0 +1,8 @@
+14:14:30,982  INFO Base.TestBase<strong>{1}</strong>:17 - Navigated successfully to URL
+14:14:32,330  INFO Base.TestBase<strong>{1}</strong>:23 - Navigated successfully to Sign In Page
+14:14:40,188  INFO Base.TestBase<strong>{1}</strong>:32 - Signed in successfully
+14:14:59,829  INFO Base.TestBase<strong>{1}</strong>:17 - Navigated successfully to URL
+14:15:01,176  INFO Base.TestBase<strong>{1}</strong>:23 - Navigated successfully to Sign In Page
+14:15:06,987  INFO Base.TestBase<strong>{1}</strong>:32 - Signed in successfully
+14:15:40,794  INFO Base.TestBase<strong>{1}</strong>:17 - Navigated successfully to URL
+14:15:42,302  INFO Base.TestBase<strong>{1}</strong>:23 - Navigated successfully to Sign In Page
