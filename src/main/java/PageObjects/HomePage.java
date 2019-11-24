@@ -14,8 +14,8 @@ public class HomePage extends TestBase {
 	public void navigateToURL()
 	{
 		driver.navigate().to(properties.getProperty("URL"));
-		logger.info("Navigated successfully to URL");//merge example
-		//Added a new line
+		logger.info("Navigated successfully to URL");
+		
 	}
 	
 	public void navigateToSignInPage()
